@@ -1,5 +1,26 @@
-# SaaSWeek
+<h1 align="center">SaaS Week</h1>
 
-Pagina de captura criada para o evento SaaSWeek. 
+<p align="center">
+ <img src="./img/saasweek.png">
+</p>
 
-![saasweek](https://github.com/QuintinoPro/LandingPageSaaSEeek/assets/134894228/720ba13a-84b7-4a76-bdc1-648e85de9e3e)
+<br>
+
+# Tecnologias
+Este projeto foi desenvolvido utilizando:
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+<br>
+
+# Status do projeto
+Finalizado (Versão Desktop e Mobile): https://quintinopro.github.io/LandingPageSaaSEeek/
+
+<br>
+
+# Inspiração
+Esta página de destino foi desenvolvida com o propósito de aprimorar meus conhecimentos em HTML/CSS.
+
+<br>
+
+
